@@ -20,13 +20,13 @@ A simple yet powerful React.js Password Generator that creates secure and custom
 
 🛠️ Tech Stack
 
-React.js – Component-based frontend library
+- React.js – Component-based frontend library
 
-JavaScript (ES6+) – Logic and interactivity
+* JavaScript (ES6+) – Logic and interactivity
 
-Tailwind CSS – Styling and responsive design
+* Tailwind CSS – Styling and responsive design
 
-Clipboard API – For copy-to-clipboard functionality
+* Clipboard API – For copy-to-clipboard functionality
 
 📂 Project Setup
 
@@ -34,7 +34,7 @@ Follow the steps below to run the project locally:
 
 1. Clone the repository
 
-git clone https://github.com/your-username/password-generator.git
+@ git clone https://github.com/your-username/password-generator.git
 
 2. Navigate to the project folder
 
@@ -72,20 +72,20 @@ Go to: http://localhost:5173
 
 🧑‍💻 Learning Highlights
 
-This project helped me practice:
+- This project helped me practice:
 
-React state management (useState)
+- React state management (useState)
 
-Memoization and performance with useCallback
+- Memoization and performance with useCallback
 
-Handling side effects with useEffect
+- Handling side effects with useEffect
 
-DOM manipulation using useRef
+- DOM manipulation using useRef
 
-Styling with Tailwind CSS
+- Styling with Tailwind CSS
 
-Using the Clipboard API in modern browsers
+- Using the Clipboard API in modern browsers
 
-- 📜 License
+📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
