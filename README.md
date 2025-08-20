@@ -85,7 +85,7 @@ DOM manipulation using useRef
 Styling with Tailwind CSS
 
 Using the Clipboard API in modern browsers
-<sep />
-📜 License
+
+- 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
