@@ -33,3 +33,5 @@ Clipboard API – For copy-to-clipboard functionality
 Follow the steps below to run the project locally:
 
 1. Clone the repository
+
+# git clone https://github.com/your-username/password-generator.git
